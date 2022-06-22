@@ -16,7 +16,7 @@ export const products = [
     priceUsd: 10,
   },
   {
-    id: 'basket-of-cookies',
+    id: 'basket-of-biscuits',
     name: 'Basket',
     description: 'A large basket of handmade cookies',
     unitName: 'basket',
